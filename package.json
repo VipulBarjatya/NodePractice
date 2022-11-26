@@ -1,0 +1,24 @@
+{
+  "name": "class-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vipulbarjatya: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@github.com/VipulBarjatya/NodePractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VipulBarjatya/NodePractice/issues"
+  },
+  "homepage": "https://github.com/VipulBarjatya/NodePractice#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
